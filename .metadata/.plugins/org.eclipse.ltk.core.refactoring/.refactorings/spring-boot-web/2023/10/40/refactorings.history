@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-boot-web/src/main/resources/templates/usuario.html&apos; to &apos;perfil.html&apos;" description="Rename resource &apos;usuario.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/templates/usuario.html" name="perfil.html" stamp="1696424341239" updateReferences="true"/>
+</session>
