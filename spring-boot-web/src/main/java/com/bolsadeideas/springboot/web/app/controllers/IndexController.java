@@ -28,7 +28,7 @@ public class IndexController {
 	
 	@GetMapping({ "/index", "/", "/home" })
 	public String index(Model model) {
-		// tambien se puede hacer con modelMa, Map<String,Object> o ModelAndView
+		// tambien se puede hacer con modelMap, Map<String,Object> o ModelAndView
 		model.addAttribute("titulo", textoIndex);
 
 		return "index";

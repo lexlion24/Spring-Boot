@@ -10,8 +10,9 @@ public class HomeController {
 	public String home() {
 		
 		//return "redirect:https://www.google.es";
+		//return "redirect:/app/index";
 		//fordward:/app/index ->no cambia la ruta (es la mejor forma)
-		return "fordward:/app/index";
+		return "forward:/app/index";
 	}
 
 }
